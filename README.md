@@ -1,3 +1,5 @@
+```
+
 FOR alternative POSIX notation:
 https://github.com/micromatch/posix-character-classes
 
@@ -38,3 +40,4 @@ Quantifiers:
     eg: {3,}    - 3 or more
 {MIN_N,MAX_N}   - Range of Numbers (Minimum, Maximum)
     eg: {3,5}   - Minimum of 3 and maximum of 5
+```
